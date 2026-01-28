@@ -71,8 +71,8 @@ Please ensure the following are installed:
         Please register or Sign up by clicking the link from login page or try to hit this URL to register - http://localhost:5173/register 
 
 ## Database information
-~This project uses MongoDB Atlas (cloud-hosted database)
-~No local database setup is required. The backend connects directly to MongoDB Atlas using the MONGO_URI in .env
+* This project uses MongoDB Atlas (cloud-hosted database)
+* No local database setup is required. The backend connects directly to MongoDB Atlas using the MONGO_URI in .env
 
 ## Screenshots
 ### Login page
