@@ -39,14 +39,19 @@ Please ensure the following are installed:
 
 ### Register page
 <img width="2880" height="1794" alt="Register page" src="https://github.com/user-attachments/assets/04465c9e-3a60-4556-a45c-669ae3c9270a" />
+
 ### Scan QR code feature
 <img width="2880" height="1794" alt="Scan QR code" src="https://github.com/user-attachments/assets/f8ca0b9d-ebb5-41bc-8670-a5a6c754aae4" />
+
 ### Election Commission Dashboard
 <img width="2880" height="1654" alt="EC Dashboard" src="https://github.com/user-attachments/assets/c2d71727-2e7c-47df-81ee-c8252c4f7de2" />
+
 ### Referendum page
 <img width="2880" height="4432" alt="Referendum page" src="https://github.com/user-attachments/assets/8470018e-540c-4d56-9d2c-b10586bbd0a0" />
+
 ### Responses page
 <img width="2880" height="10700" alt="Responses page" src="https://github.com/user-attachments/assets/8ffff001-a10c-4d72-b862-ce79c5e3570c" />
+
 ### Voter Dashboard
 <img width="2880" height="4046" alt="Voter dashboard" src="https://github.com/user-attachments/assets/4754d85a-18b5-485d-b82a-1511e498a00b" />
 
