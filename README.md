@@ -1,6 +1,47 @@
 # MSLR Project
 This is a responsive web application for MSLR created using JavaScript language and MERN stack framework (React.js, Node.js, Express.js, MongoDB (Atlas))
 
+## Tech stacks used in detail
+
+### Frontend (Client – Web Application)
+* React.js (Vite) – For building the user interface (Voter Dashboard, EC Dashboard, Login, Register, QR scan, charts, word cloud, responsive layout).
+* React Router – For routing between pages (login, register, voter, EC).
+* Axios – For making REST API calls (AJAX) to the backend.
+* Bootstrap + Custom CSS – For responsive design and layout styling.
+* Chart.js (react-chartjs-2) – For bar charts and donut charts in EC dashboard.
+* QR-Scanner (qr-scanner) – For scanning SCC QR codes via camera.
+* Word Cloud (custom canvas / d3-cloud logic) – For data mashup visualisation (highest voted options).
+  
+### Backend (Server – REST API)
+* Node.js – Runtime environment.
+* Express.js – RESTful web service framework.
+* JWT (jsonwebtoken) – Secure authentication & role-based access (Voter / EC).
+* bcrypt – Secure password hashing.
+* CORS – Cross-origin request handling.
+* dotenv – Environment variable management.
+
+### Database (Cloud)
+* MongoDB Atlas (Cloud MongoDB) – For storing:
+    * Voters
+    * Referendums
+    * Options & votes
+    * VoterHistory
+    * SCC Codes
+    * Counters (auto-increment IDs)
+* Mongoose – ODM for schema and database access.
+  
+### Security & Architecture
+* JWT-based authentication (OAuth2-style token flow)
+* Role-based authorization (EC vs Voter)
+* Protected REST endpoints
+* Hashed passwords
+* API interceptors with auto-logout on token expiry
+  
+### Open Data REST API
+* MSLR Public API endpoints
+    * /mslr/referendums?status=open
+    * /mslr/referendum/:id
+
 ## Prerequisites:
 Please ensure the following are installed:
 1. Node.js (recommended version: v18 or above)
