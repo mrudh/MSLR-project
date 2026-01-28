@@ -1,3 +1,4 @@
+# MSLR Project
 This is a responsive web application for MSLR created using JavaScript language and MERN stack framework (React.js, Node.js, Express.js, MongoDB (Atlas))
 
 # Prerequisites:
@@ -31,6 +32,10 @@ Please ensure the following are installed:
 # Database information
 ~This project uses MongoDB Atlas (cloud-hosted database)
 ~No local database setup is required. The backend connects directly to MongoDB Atlas using the MONGO_URI in .env
+
+# Screenshots
+<img width="2880" height="1794" alt="Login page" src="https://github.com/user-attachments/assets/5f5445c7-c262-46a4-b467-a6ff4ee91a2f" />
+
 
 
 
