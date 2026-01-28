@@ -36,6 +36,7 @@ Please ensure the following are installed:
 ## Screenshots
 ### Login page
 <img width="2880" height="1794" alt="Login page" src="https://github.com/user-attachments/assets/5f5445c7-c262-46a4-b467-a6ff4ee91a2f" />
+
 ### Register page
 <img width="2880" height="1794" alt="Register page" src="https://github.com/user-attachments/assets/04465c9e-3a60-4556-a45c-669ae3c9270a" />
 ### Scan QR code feature
